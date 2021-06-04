@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NKZro.
+- 👋 Hi, I’m @nkzro.
 - 👀 I’m interested in becoming a Software Engeneer.
 - 🌱 I’m currently learning how to code in C.
 - 💞️ I’m looking to collaborate on anything really.
