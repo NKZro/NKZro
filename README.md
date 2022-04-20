@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkzro.
-- 👀 I’m interested in becoming a Software Engeneer.
-- 🌱 I’m currently learning how to code in C.
+- 👀 I’m interested in becoming a Software Engineer.
+- 🌱 I’m currently learning FullStack Web Development.
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me samuelnkadu@gmail.com
 
